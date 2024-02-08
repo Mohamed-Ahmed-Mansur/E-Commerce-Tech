@@ -1,4 +1,4 @@
-just test branch
+just test branch erf
 
 back-end requirements:
 
@@ -8,4 +8,6 @@ back-end requirements:
 4- Authorization and Authentication for login page using JWT (Token)
 
 Mariam ==> Create JSON file of products (Name, Description, Price, Image: "src"), Add JSON file (our data) to MongoDB
+
+Test merge is working + resolve conflicts
 
