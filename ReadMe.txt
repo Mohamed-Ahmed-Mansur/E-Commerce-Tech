@@ -9,3 +9,5 @@ back-end requirements:
 
 Mariam ==> Create JSON file of products (Name, Description, Price, Image: "src"), Add JSON file (our data) to MongoDB
 
+Test merge is working + resolve conflicts
+
